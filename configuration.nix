@@ -26,7 +26,6 @@
   boot.loader.grub.useOSProber = true;
 
   # Network.
-  networking.hostName = "nix-os";
   networking.networkmanager.enable = true;
 
   # X11.

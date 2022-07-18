@@ -73,6 +73,7 @@
 
     # Gnome Extensions
     gnomeExtensions.pop-shell
+    gnomeExtensions.dash-to-dock
   ];
 
   # Users.

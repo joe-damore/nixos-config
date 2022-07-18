@@ -70,6 +70,9 @@
 
     # Deno
     deno
+
+    # Gnome Extensions
+    gnomeExtensions.pop-shell
   ];
 
   # Users.
